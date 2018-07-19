@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: indianred;
+  text-align: center;
+  padding: 20px 0;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  padding: 20px;
+  background-color: antiquewhite;
+  li {
+    padding: 40px;
+    color: #fff;
+    background-color: cornflowerblue;
+  }
+}
